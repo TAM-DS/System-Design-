@@ -38,7 +38,7 @@ Design a RAG system that doesn't hallucinate. Covers data ingestion, vector data
 **Tech Stack:** Python, LangChain, Pinecone/Weaviate, MLflow, Prometheus
 
 **Dashboards:** 
--[RAG-Attack-Surface-2025()
+-[RAG-Attack-Surface-2025(https://tinyurl.com/y3mmzt8n)
 
 ---
 
@@ -94,8 +94,6 @@ Design control systems that operate despite 240ms latency, intermittent 5-15 min
 **Orbital Mechanics:** SpaceX Starbase (Texas) launches east over Gulf of Mexico to capture Earth's 460 m/s rotational velocity. Can't fight physics.
 
 **Tech Stack:** C++, Real-time systems, Fault tolerance, Autonomous decision-making
-
-**Dashboard:** [Orbital Economics: Markets After Continuity](link)
 
 ---
 
