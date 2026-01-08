@@ -38,7 +38,7 @@ Design a RAG system that doesn't hallucinate. Covers data ingestion, vector data
 **Tech Stack:** Python, LangChain, Pinecone/Weaviate, MLflow, Prometheus
 
 **Dashboards:** 
--https://github.com/TAM-DS/RAG-Attack-Surface-Propagation-Map-2025-Edition-
+-[RAG-Attack-Surface-2025()
 
 ---
 
