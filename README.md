@@ -95,7 +95,7 @@ Design control systems that operate despite 240ms latency, intermittent 5-15 min
 
 **Tech Stack:** C++, Real-time systems, Fault tolerance, Autonomous decision-making
 
-
+**Dashboard** [Orbital Economics](https://tinyurl.com/9y25pv3u)
 
 ---
 
@@ -276,7 +276,7 @@ Each system is designed from first principles:
 
 ## 👤 About Me
 
-**Tracy** — Staff MLOps Engineer
+**Tracy Manning** — Staff MLOps Engineer
 
 **Background:**
 - Founded Apex ML Engineering (MLOps consultancy)
@@ -325,9 +325,7 @@ That's the standard.
 
 ---
 
-**Built with:** ☕ + 🦖 + 😻😻😻 in Dubai (and Austin)
-
-*Last updated: January 2025*
+*Last updated: January 2026*
 ```
 
 ---
