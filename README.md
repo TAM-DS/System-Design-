@@ -145,7 +145,7 @@ Each system is designed from first principles:
 - [RAG Attack Surface Analysis](link) - Where RAG systems fail (retrieval layer = 73% of vulnerabilities)
 
 ### Space Systems  
-- [Orbital Economics: Markets After Continuity](link) - Why orbital systems require different economics
+- [Orbital Economics: Markets After Continuity](https://github.com/TAM-DS/Orbital-AI-Security-Analysis-Series) - Why orbital systems require different economics
 - Orbital mechanics constraints and launch site analysis
 
 ### Energy Infrastructure
