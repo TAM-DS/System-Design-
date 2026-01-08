@@ -140,16 +140,12 @@ Each system is designed from first principles:
 
 ## 📊 Dashboards & Analysis
 
-### AI Security
-- [OWASP LLM Top 10 Threat Analysis](link) - Comprehensive threat model across 7 attack surfaces
-- [RAG Attack Surface Analysis](link) - Where RAG systems fail (retrieval layer = 73% of vulnerabilities)
-
 ### Space Systems  
 - [Orbital Economics: Markets After Continuity](https://github.com/TAM-DS/Orbital-AI-Security-Analysis-Series) - Why orbital systems require different economics
 - Orbital mechanics constraints and launch site analysis
 
 ### Energy Infrastructure
-- [Texas Energy Data Pulse (24-part series)](link) - AI infrastructure, energy companies, data center evolution
+- [Texas Energy Data Pulse (24-part series)](https://github.com/TAM-DS/Texas-Energy-Data-Pulse) - AI infrastructure, energy companies, data center evolution
 - Bi-weekly analysis: 74-160 views per dashboard
 
 ---
