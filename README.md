@@ -71,7 +71,7 @@ Secure AI systems across 7 attack surfaces: data, model, inference API, output, 
 
 **Tech Stack:** Python, OWASP, HashiCorp Vault, Prometheus, Great Expectations
 
-**Dashboard:** [OWASP LLM Top 10 Threat Analysis](link)
+**Dashboard:** [OWASP LLM Top 10 Threat Analysis](https://tinyurl.com/5n8dvstd)
 
 ---
 
@@ -94,6 +94,8 @@ Design control systems that operate despite 240ms latency, intermittent 5-15 min
 **Orbital Mechanics:** SpaceX Starbase (Texas) launches east over Gulf of Mexico to capture Earth's 460 m/s rotational velocity. Can't fight physics.
 
 **Tech Stack:** C++, Real-time systems, Fault tolerance, Autonomous decision-making
+
+
 
 ---
 
