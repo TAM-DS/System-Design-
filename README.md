@@ -295,7 +295,13 @@ When systems fail at 2am, I design better systems.
 
 ## 🔗 Connect
 
--
+**Tracy Manning**  
+Staff MLOps Engineer | Multi-Cloud + Linux Infrastructure Architect | Austin, TX
+
+💼 [LinkedIn](https://linkedin.com/in/tracy-manning-full-stack-ai)  
+🐦 [X/Twitter](https://twitter.com/TAGM2025)  
+📊 [Tableau Public](https://public.tableau.com/app/profile/tagm/vizzes)  
+📱 [WhatsApp Channel](https://whatsapp.com/channel/0029Vb6rVBD29757lPbMat3P)
 
 ---
 
